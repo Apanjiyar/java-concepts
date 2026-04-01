@@ -1,4 +1,4 @@
-package com.example.java8.functional_interface;
+package src.com.example.java8.functional_interface;
 
 import java.util.function.Function;
 
